@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29f74f0a-eaaf-4f18-a087-644a12dee9ce/deploy-status)](https://app.netlify.com/sites/react-grid-assignment/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
